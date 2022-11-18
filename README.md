@@ -1,4 +1,8 @@
 # Fores-Recursivos
+
+## CDN
+https://raw.githack.com/MauricioSalvadorC/Fores-Recursivos/main/ForesRecursivos.js
+
 ## Descripción
 La función ForR() realiza fores anidados a partir de recursividad,  utilizando el vector de los iteradores de cada respectivo for para su uso, con la usabilidad  de pasar por parámetros una función para que ejecute el código a partir de N fores anidados
 
@@ -6,8 +10,13 @@ La función ForR() realiza fores anidados a partir de recursividad,  utilizando 
 ## Comenzando
 
 ### Instalación
+
 ```html
 <script src="ForesRecursivos.js"></script>
+```
+O usando la CDN
+```html
+<script src="https://raw.githack.com/MauricioSalvadorC/Fores-Recursivos/main/ForesRecursivos.js"></script>
 ```
 
 ### Ejemplo de uso
