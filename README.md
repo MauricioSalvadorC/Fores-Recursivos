@@ -18,8 +18,32 @@ O usando la CDN
 ```html
 <script src="https://raw.githack.com/MauricioSalvadorC/Fores-Recursivos/main/ForesRecursivos.js"></script>
 ```
-
 ### Ejemplo de uso
+  ```js
+  function indicesFores(v){
+      console.log(v.toString()) 
+  }
+  ForR(indicesFores, 4, 2)
+  ```
+```
+0 0 0 0
+0 0 0 1
+0 0 1 0
+0 0 1 1
+0 1 0 0
+0 1 0 1
+0 1 1 0
+0 1 1 1
+1 0 0 0
+1 0 0 1
+1 0 1 0
+1 0 1 1
+1 1 0 0
+1 1 0 1
+1 1 1 0
+1 1 1 1
+```
+### Otro jemplo de uso(combinacion a partir de los iteradores de 3 fores anidados
 
 ```js
   let a=["a","b","c"]
@@ -66,5 +90,5 @@ c c c
 
 ## Autores
 
-Maririco Salvador
-Oscar Orozco
+* *Maririco Salvador* 
+* *Oscar Orozco*
