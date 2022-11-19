@@ -10,7 +10,7 @@ La función ForR() realiza fores anidados a partir de recursividad,  utilizando 
 ## Comenzando
 
 ### Instalación
-
+En su archivo HTML agregue la siguiente linea de codigo
 ```html
 <script src="ForesRecursivos.js"></script>
 ```
